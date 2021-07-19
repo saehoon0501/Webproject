@@ -6,7 +6,7 @@ const app = express();
 
 app.get("/", function(req,res){
     res.send("Server is up");
-    const url ="https://api.openweathermap.org/data/2.5/weather?q=Seoul&units=metric&appid=45b590689fbe0230da72024915ce4e7e"
+    const url ="https://api.openweathermap.org/data/2.5/weather?q=Seoul&units=metric&appid=APIKeyFromOpenWeathermap"
     
     https.get(url, function(res2){
         console.log(res2.statusCode);
