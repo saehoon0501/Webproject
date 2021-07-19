@@ -1,0 +1,28 @@
+@import "reset.css";
+@import "status-bar.css";
+@import "variables.css";
+@import "login.css";
+@import "nav-bar.css";
+@import "screen-header.css";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+@import "friends.css";
+@import "user-component.css";
+@import "chats.css";
+@import "find.css";
+@import "icon-row.css";
+@import "alternative.css";
+@import "settings.css";
+@import "no-bigscreen.css";
+
+body{
+    font-family: "Open Sans", serif;
+    color: #2e363e;
+    height: 110vh;
+}
+.main-screen{
+    padding: 0px var(--horizontal-space);
+}
+
+.user-component__title{
+    color: black;
+}
