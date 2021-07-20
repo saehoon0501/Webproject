@@ -1,6 +1,6 @@
 # Webproject        
 HTML, CSS, JavaScript, Node.js, Bootstrap, EJS 등 을 사용해 여러 웹 페이지를 구현.          
-nodemodule 파일이 없기 때문에 필요할 시, 다운받은 폴더에서 npm install을 실행해서 사용 가능.                        
+node_module 파일이 없기 때문에 필요할 시, 다운받은 폴더에서 npm install을 실행해서 사용 가능.                        
 
 ## BlogSite
 Node.js와 EJS를 이용한 나의 Blog 구현.      
