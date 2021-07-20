@@ -2,7 +2,7 @@
 HTML, CSS, JavaScript, Node.js, Bootstrap, EJS 등 을 사용해 여러 웹 페이지를 구현해본다.        
 
 ## BlogSite
-Node.js와 EJS를 이용한 Blog 구현.
+Node.js와 EJS를 이용한 나의 Blog 구현.
 EJS를 이용해 테플릿으로 추가되는 Post에 따라 그에 맞는 Tag 추가, HTML 추가 등 구현.
 /compose 페이지에서 작성된 게시물의 Title과 Content
 
